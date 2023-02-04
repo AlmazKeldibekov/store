@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+.app {
+    min-height: 100vh;
+}
+
+
+.app.dark{
+    background: darkslategrey;
+}
+
+.app.light{
+    background: lavender;
+}
